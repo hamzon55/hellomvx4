@@ -1,0 +1,9 @@
+/Users/hamzajerbi/Projects/HelloMvx4/HelloMvx4.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/hamzajerbi/Projects/HelloMvx4/HelloMvx4.Core/bin/Debug/HelloMvx4.Core.dll.mdb
+/Users/hamzajerbi/Projects/HelloMvx4/HelloMvx4.Core/bin/Debug/HelloMvx4.Core.dll
+/Users/hamzajerbi/Projects/HelloMvx4/HelloMvx4.Core/obj/Debug/HelloMvx4.Core.dll
+/Users/hamzajerbi/Projects/HelloMvx4/HelloMvx4.Core/obj/Debug/HelloMvx4.Core.dll.mdb
+/Users/hamzajerbi/Projects/HelloMvx4/HelloMvx4.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/hamzajerbi/Projects/HelloMvx4/HelloMvx4.Core/bin/Debug/MvvmCross.Core.dll
+/Users/hamzajerbi/Projects/HelloMvx4/HelloMvx4.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/hamzajerbi/Projects/HelloMvx4/HelloMvx4.Core/bin/Debug/MvvmCross.Localization.dll

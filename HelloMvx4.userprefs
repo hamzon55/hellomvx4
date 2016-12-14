@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6E708B2E-CB0A-400E-BCA7-F9C7CB7D3F9D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/7.0.2-37/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets">
+    <Files>
+      <File FileName="HelloMvx4.Core/MyClass.cs" Line="11" Column="1" />
+      <File FileName="HelloMvx4.Touch/AppDelegate.cs" Line="34" Column="1" />
+      <File FileName="HelloMvx4.Touch/AppDelegate.cs.txt" Line="1" Column="1" />
+      <File FileName="HelloMvx4.Touch/LinkerPleaseInclude.cs" Line="99" Column="58" />
+      <File FileName="HelloMvx4.Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.Android.framework/Versions/7.0.2-37/lib/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloMvx4.Touch PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A51D7EC8-F0CA-4ADF-A6F8-7F4E46A6077D" />
+  <MonoDevelop.Ide.ItemProperties.HelloMvx4.Droid PreferredExecutionTarget="Android.nexus" />
+</Properties>
